@@ -1,5 +1,7 @@
 # Usage : terraform validate|apply|destroy
-
+#         terraform apply           Start the Create Env
+#         terraform destroy         Teardown the Created Env
+#         terraform validate        Validate and Dry-Run the Template
 # ami_id 	 = ami-097834fcb3081f51a
 # key_pair = Access_key_userName
 # ami_name = azmlinux
