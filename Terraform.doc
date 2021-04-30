@@ -1,0 +1,26 @@
+Terraform is a tool for building, changing, and versioning infrastructure safely and efficiently. Terraform can manage existing and popular service providers as well as custom in-house solutions. Configuration files describe to Terraform the components needed to run a single application or your entire datacenter.
+
+AWS DevOps, is an IAC (infrastructure as code) tool similar to AWS CloudFormation that allows you to create, update, and version your Amazon Web Services (AWS) infrastructure.
+
+Terraform VS Ansible
+- Backed by RedHat Terraform acts like an orchestrator, using Packer for automation. Terraform is more of an infrastructure provisioning tool. Terraform talks to VMWare, AWS, GCP, and deploys infrastructure.
+
+- Ansible by RedHat also is an automation tool that helps drive complexity away and accelerate DevOps initiatives.
+
+- Pro and Con
+  1)Ansible is a bit of a hybrid since it can do both, perform orchestration and replace infrastructure. 
+  2)Terraform is more widely used. It's considered the superior product since it has advanced state management capabilities, which Ansible does not.
+
+
+Companies that integrate with Terraform.
+  CloudFlare.
+  Amazon EC2.
+  Heroku.
+  Microsoft Azure.
+  DigitalOcean.
+  Google Compute Engine.
+  Consul.
+  OpenStack.
+
+
+https://www.google.com/search?client=safari&rls=en&q=terraform&ie=UTF-8&oe=UTF-8
